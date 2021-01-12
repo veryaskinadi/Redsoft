@@ -1,0 +1,13 @@
+@import "_variables.css";
+
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  font-style: normal;
+  font-weight: normal;
+  height: 100%;
+}
